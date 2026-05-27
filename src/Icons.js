@@ -6,6 +6,11 @@ import ganesha from "./god portraits/t_GodPortrait_Ganesha.avif"
 function Icons() {
     return(
         <div className="icons">
+            <h3>
+            When trying to explain my take on MOBAs to those who don't know what they are I relate them to 
+            sports in how every position has a role to play to help the team succeed.Below are a few of my 
+            favorite characters to play as especially as a front liner role.
+            </h3>
             <img id="icon" alt="Awilix" src={awilix}></img>
             <p>Awilix is a newer release, she was one of my favorite Gods to play in Smite 1. She's good at chasing other characters down and has a mount of her own named Suku.</p>
             <img id="icon" alt="Gilgamesh" src={gilgamesh}></img>
